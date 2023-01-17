@@ -24,10 +24,13 @@
 | David Boere  | Software Developer  | 6776348  |
 | Mohit Gummaraj Kishore  | SCRUM Master, Software Developer  | 7343429  |
 
+---
+
 ## Project Description
 
 
 
+---
 
 ## Timetable
 
